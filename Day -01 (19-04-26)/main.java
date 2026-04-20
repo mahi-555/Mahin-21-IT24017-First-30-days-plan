@@ -7,15 +7,15 @@ public class main{
         s1.Number="01749272722";
         s1.Show();
         Student s2=new Student();
-        s2.name="mourin";
+        s2.name="Mourin";
         s2.Roll=11;
-        s2.district="rongpur";
+        s2.district="Rongpur";
         s2.Number="01629277953";
         s2.Show();
         Student s3=new Student();
-        s3.name="tiha";
+        s3.name="Tiha";
         s3.Roll=12;
-        s3.district="gazipur";
+        s3.district="Gazipur";
         s3.Number="01749123456";
         s3.Show();
     }
