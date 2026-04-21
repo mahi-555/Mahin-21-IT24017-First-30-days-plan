@@ -24,7 +24,7 @@
 
 
 
-class person {
+<pre> class person {
   private string name;
   private int age;
   public person(string name, int age) {
@@ -47,3 +47,4 @@ class person {
     }
   }
 }
+</pre>
