@@ -24,3 +24,7 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 - Basic examples
 
 ---
+##Day 02
+**Topic: Encapsulation in Java
+
+**Vedio:**
