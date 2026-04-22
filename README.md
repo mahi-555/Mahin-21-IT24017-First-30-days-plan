@@ -28,6 +28,7 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 **Topic:** Modifier & Encapsulation in Java
 
 **Vedio:**
+https://youtu.be/IWFzm8qlR1c?si=H5U8v8RDIWxkBxzG
 https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 
 **Code** 
@@ -41,3 +42,16 @@ https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB
 
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%203
+
+
+
+## Day 04
+**Topic:** Super Class, Subclass, Inheritance & Polymorphism
+
+**Vedio:**
+https://youtu.be/j_VA2Rp6jM0?si=7h6M2ZXkI7RR5Ifk
+https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
+
+**Code:**
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2004
+
