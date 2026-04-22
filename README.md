@@ -40,4 +40,4 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB
 
 **Code:**
-
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%203
