@@ -1,6 +1,5 @@
-Example 01
-
-<pre>
+# Example 01
+```java
 public class Main {
   `  public static void main ( string[] args){
     person person = new person("Alic",30);
@@ -39,13 +38,10 @@ public class Main {
     }
   }
 }
+```
 
-
-
-
-Example 02
-
-
+# Example 02
+  ```java
 public class Main {
     public static void main(String[] args) {
         BankAccount myAccount = new BankAccount("John Doe", 500.00);
@@ -95,5 +91,4 @@ class BankAccount {
         }
     }
 }
-
-        </prev>
+```
