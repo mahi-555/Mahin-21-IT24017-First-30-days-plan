@@ -30,5 +30,14 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 **Vedio:**
 https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 
-**code** 
+**Code** 
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%202
+
+## Day 03
+**Topic:** Contructor in Java
+
+**Vedio:**
+https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB
+
+**Code:**
+
