@@ -1,7 +1,5 @@
-Example 01:
-
-<pre>
-
+# Example 01:
+```java
 class Dog{
 String name;
 Dog(String dogName) {
@@ -16,10 +14,9 @@ public static void main ( String [] args){
 Dog myDog= new Dog("Buddy");
 myDog.display();
 }
-
-
-Example 02:
-
+```
+# Example 02:
+```java
 class Car {
     String brand;
     Car(String carBrand) {
@@ -37,5 +34,4 @@ public class Main {
         myCar.showBrand();
     }
 }
-
-</pre>
+```
