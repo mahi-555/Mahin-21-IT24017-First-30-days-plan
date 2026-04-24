@@ -55,3 +55,17 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2004
 
+
+
+## Day 05
+**Topic:**
+
+
+**Vedio:**
+
+
+
+
+**Code:**
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26)
+
