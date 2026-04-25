@@ -69,11 +69,10 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 
 
 ## Day 06
-**Topic:**
-
+**Topic:** Using Array, LinkList && HashMap
 
 **Vedio:**
-
+https://youtu.be/TDHaeHAlPFg?si=CF7edmSfZ_TTXxD0
 
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26)
