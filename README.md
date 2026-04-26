@@ -34,6 +34,9 @@ https://youtu.be/HZUUYnIZO_0?si=muTWbNSVXMumJNCf
 **Code** 
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%202
 
+**Summary:**
+
+
 ## Day 03
 **Topic:** Contructor in Java
 
@@ -43,6 +46,7 @@ https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%203
 
+**Summary:**
 
 
 ## Day 04
@@ -55,6 +59,11 @@ https://youtu.be/bLke13zY4rg?si=jXipMVv9pdV8r7mc
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2004
 
+**Summary:**
+- Uses extends to let a child class
+- reuse code from a parent class
+- saving time and reducing repetition.
+-----
 
 ## Day 05
 **Topic:** Using Abstraction && Inner Class
@@ -66,7 +75,12 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26)
 
-
+**Summary:**
+- Learned how to create **classes and objects** in Java
+- Understood **constructor** to initialize values (`title`, `author`)
+- Learned **inner class concept** (`Library.Book`) and object creation
+- Practiced **encapsulation** using `private` variables and methods
+-----
 
 ## Day 06
 **Topic:** Using Array, LinkList && HashMap
@@ -75,29 +89,30 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 https://youtu.be/TDHaeHAlPFg?si=CF7edmSfZ_TTXxD0
 
 **Code:**
-https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26)
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2005%20(23-04-26) 
 
-
-
-
+**Summary:**
+- Learned how to use ArrayList (List) to store multiple values
+- Used methods: add(), get(), remove(), set()
+- Practiced loop (for-each) to print elements
+- Learned HashMap (key-value pairs)
+- Used methods: put(), get(), keySet()
+-----
 
 ## Day 07
-**Topic:**
-
-
+**Topic:** Exploring Sets ( HashSet & TreeSet)
 
 **Vedio:**
-
-
+https://youtu.be/XDw-BkAZYmY?si=OstR1oZ3od7ZxjUa
 
 **Code:**
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%2007(25-04-26)
 
-
-
-## Day 08
-**Topic:**
-
-
-**Vedio:**
+**Summary:**
+- Learned that **HashSet** and **TreeSet** store unique elements (no duplicates).
+- **HashSet** is unordered, while **TreeSet** keeps elements sorted.
+- Practiced operations like `add()`, `remove()`, and `contains()`.
+- Understood performance: HashSet is faster; TreeSet uses a tree for sorting.
+-----
 
 
