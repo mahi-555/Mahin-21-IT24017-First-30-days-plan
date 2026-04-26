@@ -36,6 +36,11 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 
 **Summary:**
 
+- Learned **Encapsulation** using `private` variables (`name`, `age`)
+- Used **getter and setter methods** to access and update data safely
+- Applied **constructor** to initialize object values
+- Added **validation logic** (`age >= 0`) to prevent invalid input
+-----
 
 ## Day 03
 **Topic:** Contructor in Java
