@@ -52,6 +52,10 @@ https://youtu.be/acfR5vRTZvc?si=MqKadnG8uppYrFpB
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%203
 
 **Summary:**
+- Used a constructor to initialize object data (Dog(String dogName)
+- Stored and accessed data using instance variable (name)
+- Called a method (display()) using object reference
+-----
 
 
 ## Day 04
