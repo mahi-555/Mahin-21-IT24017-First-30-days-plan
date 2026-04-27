@@ -21,7 +21,7 @@ public class Main{
 ```
 
 
-* Example
+# Example 02
 ``` java
 class Book {
   private String title;
