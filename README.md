@@ -129,9 +129,10 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 **Topic:** Array List
 
 **Vedio:**
+https://youtu.be/PccU1wAdnlM?si=rGfQfncpoe54JF0
 
 **Code:**
-
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-08(26-04-26)
 
 **Summary:**
 - ArrayList` is used to store multiple book names dynamically
@@ -139,10 +140,7 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 - Constructor is optional if you initialize directly
 - `System.out.println(list)` prints all elements in one line
 - Java classes can group data (books) and methods (add/display) together
-
-
-
-
+----
 
 
 ## Day 09
