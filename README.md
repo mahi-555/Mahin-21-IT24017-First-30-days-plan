@@ -161,4 +161,68 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-09
 - `peek()` is used to view the front element without removing it.
 ----
 
+## Day 10
+
+**Topic:** 
+
+**Vedio:**
+
+
+**Code:**
+
+
+**Summary:**
+
+
+## Day 11
+
+**Topic:** 
+
+**Vedio:**
+
+
+**Code:**
+
+
+**Summary:**
+
+
+## Day 12
+
+**Topic:** 
+
+**Vedio:**
+
+
+**Code:**
+
+
+**Summary:**
+
+
+
+## Day 13
+
+**Topic:** 
+
+**Vedio:**
+
+
+**Code:**
+
+
+**Summary:**
+
+
+## Day 14
+
+**Topic:** 
+
+**Vedio:**
+
+
+**Code:**
+
+
+**Summary:**
 
