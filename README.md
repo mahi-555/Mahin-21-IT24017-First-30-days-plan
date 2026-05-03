@@ -201,16 +201,21 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-11
 
 ## Day 12
 
-**Topic:** 
+**Topic:** File Input & Output Stream
 
 **Vedio:**
-
+https://youtu.be/rs1WKrln-9U?si=ELvsd5J3CrFzlGs_
 
 **Code:**
-
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-12(30-04-26)
 
 **Summary:**
-
+- `BufferedWriter` is used for efficient writing to files
+- `FileWriter` can write or append data (`true` for append mode)
+- `write()` writes text and `newLine()` adds a new line
+- `close()` is important to save data properly
+- `IOException` is handled using try-catch
+----
 
 
 ## Day 13
