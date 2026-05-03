@@ -182,15 +182,21 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-10
 
 ## Day 11
 
-**Topic:** 
+**Topic:** Using Byte Streams in java
 
 **Vedio:**
-
+https://youtu.be/NIxcCzJOj3c?si=EFWtIUeTwQyfLvF0
 
 **Code:**
-
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-11(29-04-26)
 
 **Summary:**
+- Byte streams are used to read and write raw binary data (e.g., images, audio, files).
+- Classes like `FileInputStream` and `FileOutputStream` are commonly used.
+- Data is processed byte by byte, not character by character.
+- Useful for handling non-text files.
+- Requires exception handling (`IOException`) for safe operation.
+
 
 
 ## Day 12
