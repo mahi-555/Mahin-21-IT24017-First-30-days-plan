@@ -124,4 +124,30 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day%20
 - Understood performance: HashSet is faster; TreeSet uses a tree for sorting.
 -----
 
+## Day 08
+
+**Topic:**
+
+**Vedio:**
+
+**Code:**
+
+
+**Summary:**
+
+
+
+
+## Day 09
+
+**Topic:**
+
+
+**Vedio:**
+
+**Code:**
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-09(27-04-26)
+
+**Summary:**
+
 
