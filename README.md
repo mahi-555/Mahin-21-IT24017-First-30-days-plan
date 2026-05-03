@@ -163,15 +163,21 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-09
 
 ## Day 10
 
-**Topic:** 
+**Topic:** File Management
 
 **Vedio:**
-
+https://youtu.be/PccU1wAdnlM?si=rGfQfncpoe54JF0Z
 
 **Code:**
-
+https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-10(28-04-26)
 
 **Summary:**
+- The Java `File` class is used to create and manage files.
+- The `exists()` method checks whether a file is present or not.
+- The `createNewFile()` method is used to create a new file.
+- You can get file details like path, size, and read/write permissions.
+- Exception handling (`IOException`) is used to handle file-related errors safely.
+----
 
 
 ## Day 11
