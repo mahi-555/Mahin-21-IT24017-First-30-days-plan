@@ -232,12 +232,14 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-13
 
 
 
+
 ## Day 14
 
-**Topic:** 
+**Topic:** Using Time Zones & Parsing Dates from String
 
 **Vedio:**
-
+https://youtu.be/apUcrW2Tmd8?si=1PUdwqbNqYqcK9uK
+https://youtu.be/wNNcI8ktP34?si=s8l8CawR3-5pUl6F
 
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-14(02-05-26)
