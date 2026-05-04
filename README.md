@@ -220,15 +220,16 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-12
 
 ## Day 13
 
-**Topic:** 
+**Topic:** Working Input,Output
 
 **Vedio:**
-
+https://youtu.be/svLv3q-_Fl0?si=QsHAJyCRE7qTPaMN
+https://youtu.be/rs1WKrln-9U?si=vQAuOSKiSajiHO0
 
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-13(01-05-26)
 
-**Summary:**
+
 
 
 ## Day 14
@@ -241,5 +242,5 @@ https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-13
 **Code:**
 https://github.com/mahi-555/Mahin-21-IT24017-First-30-days-plan/tree/main/Day-14(02-05-26)
 
-**Summary:**
+
 
